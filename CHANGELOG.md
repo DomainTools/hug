@@ -1,4 +1,4 @@
-Install the latest
+Installs the latest
 ===================
 
 To install the latest version of hug simply run:
